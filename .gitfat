@@ -1,2 +1,2 @@
 [rsync]
-remote = \\10.92.128.189\fat-store
+remote = 10.92.128.189/fat-store

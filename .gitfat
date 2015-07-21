@@ -1,2 +1,2 @@
-[http]
-remote = http://www.dropbox.com/home/gitfat
+[rsync]
+remote = /fat-store

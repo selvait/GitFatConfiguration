@@ -1,2 +1,2 @@
 [rsync]
-remote = /fat-store
+remote = /c/fat-store
